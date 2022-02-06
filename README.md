@@ -6,7 +6,7 @@
 
 🎓 Master Of Computer Science at [NCSU](https://www.ncsu.edu).
 
-🚀 Bachelor of Computer Engineering at [KJSCE](https://somaiya.kjsce.com).
+🚀 Bachelor of Computer Engineering at [KJSCE](https://somaiya.kjsce.edu/en).
 
 ## About Me 🥳
 - 📍  I'm from Gondia,MH 🇮🇳. Currently living in Raleigh, NC 🇺🇸  

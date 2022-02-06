@@ -39,7 +39,7 @@ Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. Th
 - No disk may be placed on top of a smaller disk.
 - Source: [GeeksForGeeks](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/)
 
-**With the magic of recursion, we can solve this complex mathemical puzzle within few lines of code. 🥶** 
+**With the magic of recursion, we can solve this complex mathematical puzzle within few lines of code. 🥶** 
 ``` java
 public class TowerOfHanoi {
     static int count = 0;

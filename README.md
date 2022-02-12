@@ -1,6 +1,6 @@
 ### Hola! I am Zunaid! 👋
 
- <img align="right" alt="IMG" src="https://github.com/zedunaid/zedunaid/blob/main/Zunaid_GH_Profile.jpeg"  width="300" />
+ <img align="right" alt="IMG" src="https://github.com/zedunaid/zedunaid/blob/main/Zunaid_GH_Profile.jpeg"  width="200" />
 
 ![visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=zedunaid&repo=zedunaid&countColor=%237B1E7A)
 
@@ -9,7 +9,7 @@
 🚀 Bachelor of Computer Engineering at [KJSCE](https://somaiya.kjsce.edu/en).
 
 ## About Me 🥳
-- 📍  I'm from Gondia,MH 🇮🇳. Currently living in Raleigh, NC 🇺🇸  
+- 📍  I'm from 🇮🇳. Currently living in 🇺🇸  
 - 🌱  I’m currently learning DevOps, CI/CD, PyTorch, Spark and Kafka 
 - 👯  I’m looking to contribute on open source softwares that can change lives. 
 - 💬  Contact me if you've amazing software engineering opportunities for Summer 2022.
@@ -28,41 +28,6 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="Docker" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" />
 <br/>
-<br />
-
-## Favorite Code Snippet 🪄:
- **Problem Statement:**
-Tower of Hanoi is a mathematical puzzle where we have three rods and n disks. The objective of the puzzle is to move the entire stack to another rod, obeying the following simple rules: 
-
-- Only one disk can be moved at a time.
-- Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack i.e. a disk can only be moved if it is the uppermost disk on a stack.
-- No disk may be placed on top of a smaller disk.
-- Source: [GeeksForGeeks](https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/)
-
-**With the magic of recursion, we can solve this complex mathematical puzzle within few lines of code. 🥶** 
-``` java
-public class TowerOfHanoi {
-    static int count = 0;
-    public static void main(String args[]) {
-        String source = "A";
-        String destination="C";
-        String helper="B";
-        solveTOH(3,source,destination,helper);
-        System.out.println("No of Steps: "+count);
-    }
-    public static void solveTOH(int n, String source, String destination, String helper) {
-        count ++;
-        if(n==1) {
-            System.out.println("Moving plate "+n+" from "+source+" to "+destination);
-            return;
-        }
-        solveTOH(n-1,source,helper,destination);
-        System.out.println("Moving plate "+n+" from "+source+" to "+destination);
-        solveTOH(n-1,helper,destination,source);
-        return;
-    }
-} 
-```
 <br />
 
 ---

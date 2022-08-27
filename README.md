@@ -10,9 +10,9 @@
 
 ## About Me 🥳
 - 📍  I'm from 🇮🇳. Currently living in 🇺🇸  
-- 🌱  I’m currently learning DevOps, CI/CD, PyTorch, Spark and Kafka 
+- 🌱  I’m currently learning Cloud Computing Architecture and Human Computer Interaction
 - 👯  I’m looking to contribute on open source softwares that can change lives. 
-- 💬  Contact me if you've amazing software engineering opportunities for Summer 2022.
+- 💬  Contact me if you've amazing software engineering opportunities starting from Spring 2023.
 
 ## Skills and Tools 🤹🏻‍♂️:
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
